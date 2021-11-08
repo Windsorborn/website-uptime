@@ -11,6 +11,9 @@
 
 <!--end: status pages-->
 
+--
+[Status page](https://windsorborn.github.io/website-uptime/)
+
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
