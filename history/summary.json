@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 866,
-    "timeDay": 703,
-    "timeWeek": 880,
-    "timeMonth": 868,
-    "timeYear": 866,
+    "time": 865,
+    "timeDay": 701,
+    "timeWeek": 821,
+    "timeMonth": 864,
+    "timeYear": 865,
     "dailyMinutesDown": {
       "2022-03-11": 31
     }
@@ -25,18 +25,19 @@
     "icon": "https://favicons.githubusercontent.com/arc31.com",
     "slug": "arc31",
     "status": "down",
-    "uptime": "99.39%",
+    "uptime": "99.00%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "77.60%",
-    "uptimeMonth": "94.85%",
-    "uptimeYear": "99.39%",
+    "uptimeWeek": "63.30%",
+    "uptimeMonth": "91.55%",
+    "uptimeYear": "99.00%",
     "time": 891,
     "timeDay": 0,
-    "timeWeek": 904,
-    "timeMonth": 882,
+    "timeWeek": 889,
+    "timeMonth": 883,
     "timeYear": 891,
     "dailyMinutesDown": {
-      "2022-07-23": 19,
+      "2022-07-24": 21,
+      "2022-07-23": 1440,
       "2022-07-22": 1440,
       "2022-07-21": 799
     }
